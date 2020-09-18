@@ -1,0 +1,9 @@
+
+# jupyter notebook
+ipynb_checkpoints/
+
+# virtual environment
+venv/
+
+# image file outputs
+*.png
